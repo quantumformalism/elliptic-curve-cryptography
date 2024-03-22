@@ -6,7 +6,8 @@ This is the repository for the course.
 
 * [QF Newsletter](https://quantumformalism.substack.com/)
 
-* [Zulip channel for the course] (https://quantumformalism.zulipchat.com/join/vvuih7rvdxohub5j3rd43ulj/)
+* [Zulip channel for the course] (https://quantumformalism.zulipchat.com/join/vvuih7rvdxohub5j3rd43ulj/).
+  
 * [QF Discord Server](https://discord.gg/T4Y4BPC958)
 
 * [QF LinkedIn](https://www.linkedin.com/showcase/quantum-formalism/)
